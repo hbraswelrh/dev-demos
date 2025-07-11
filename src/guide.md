@@ -8,3 +8,12 @@
 
 - Go Compiled
   - Less overhead, more binaries 
+
+- Fast Compile Time
+  - Not interpreted
+
+- Built-in Concurrency
+  - Goroutines
+
+- Simplicity
+  - Garbage collection
